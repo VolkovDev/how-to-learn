@@ -84,7 +84,7 @@
 .header__square-pic {
   background-color:  #2f80ed;
   height: 568px;
-  width: 568px;;
+  width: 568px;
   position: absolute;
   right: 0;
   top: 64px;
@@ -256,7 +256,6 @@
 .table__cell_theme_dark { 
   width: 200px;
   margin-top: 80px;
-
 }
 .table__heading_theme_dark { 
   margin-bottom: 20px;
