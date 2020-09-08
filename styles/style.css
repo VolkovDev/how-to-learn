@@ -206,6 +206,7 @@
 }
 
 .feinman { 
+  padding-top: 100px;
   min-height: 790px;
   display: flex;
   flex-direction: column;
