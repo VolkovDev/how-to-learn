@@ -1,0 +1,11 @@
+.resources__logo-link {
+  width: 270px;
+  height: 38px;
+  text-align: center;
+  text-decoration: none;
+  transition: 1s;
+}
+
+.resources__logo-link:hover {
+  opacity: 0.4;
+}
